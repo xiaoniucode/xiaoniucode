@@ -68,8 +68,6 @@
 
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xilio-dev&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
- <a href="https://github.com/xilio-dev"><img src="https://github.com/xilio-dev/xilio-dev/raw/main/assets/laptop.png" align="right" height="200" /></a>
 
 
 ![](assets/cat-typing.gif)
